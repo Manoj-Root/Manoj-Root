@@ -3,7 +3,9 @@
 🚀 Cybersecurity Enthusiast | CTF Player | Aspiring VAPT Analyst<br><br>🔹 Passionate about offensive security, penetration testing, and ethical hacking.<br>🔹 Actively solving CTF challenges and exploring red teaming tactics.<br>🔹 Strong interest in vulnerability assessment, exploit development, and OSINT.<br>🔹 Currently building cybersecurity projects and sharpening my skills in security tools & scripting.<br><br>💡 Always learning, breaking, and securing systems
 
 ## 🛠️ Skills:
-- **Ethical Hacking**  
+- **Ethical Hacking**
+- **Bugbounty**
+- **Digital Forencis**
 - **Vulnerability Assessment & Penetration Testing (VAPT)**  
 - **Red Teaming**  
 - **Exploit Development**  
