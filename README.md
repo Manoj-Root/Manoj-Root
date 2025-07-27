@@ -4,14 +4,15 @@
 
 ## 🛠️ Skills:
 - **Ethical Hacking**
-- **Bugbounty**
+- **Security-Tool Development**
 - **Digital Forencis**
 - **Vulnerability Assessment & Penetration Testing (VAPT)**  
 - **Red Teaming**  
 - **Exploit Development**  
 - **OSINT (Open Source Intelligence)**  
 - **Web Application Security**  
-- **Network Security & Hardening**  
+- **Network Security & Hardening**
+- **Bugbounty**  
 - **Malware Analysis**  
 ## 🛠️ Tools & Technologies:
 ![Nmap](https://img.shields.io/badge/Nmap-%230094CE.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6F00.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%230097C5.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231672A4.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-%23E63946.svg?style=for-the-badge&logo=security&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-%231E88E5.svg?style=for-the-badge&logo=security&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-%23D32F2F.svg?style=for-the-badge&logo=security&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23B71C1C.svg?style=for-the-badge&logo=security&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%2323A1D1.svg?style=for-the-badge&logo=owasp&logoColor=white) ![Netcat](https://img.shields.io/badge/Netcat-%23575757.svg?style=for-the-badge&logo=security&logoColor=white) ![Maltego](https://img.shields.io/badge/Maltego-%230F52BA.svg?style=for-the-badge&logo=security&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-%23D84315.svg?style=for-the-badge&logo=security&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-%230073A3.svg?style=for-the-badge&logo=security&logoColor=white) ![Faraday](https://img.shields.io/badge/Faraday-%231E88E5.svg?style=for-the-badge&logo=security&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-%23000000.svg?style=for-the-badge&logo=security&logoColor=white) ![The Harvester](https://img.shields.io/badge/The%20Harvester-%23F57C00.svg?style=for-the-badge&logo=security&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-%234CAF50.svg?style=for-the-badge&logo=security&logoColor=white) ![Autopsy](https://img.shields.io/badge/Autopsy-%23004D40.svg?style=for-the-badge&logo=security&logoColor=white) ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-%232196F3.svg?style=for-the-badge&logo=security&logoColor=white) ![Caine](https://img.shields.io/badge/Caine-%231B5E20.svg?style=for-the-badge&logo=security&logoColor=white) ![Cain and Abel](https://img.shields.io/badge/Cain%20and%20Abel-%232E7D32.svg?style=for-the-badge&logo=security&logoColor=white) ![Metasploit Pro](https://img.shields.io/badge/Metasploit%20Pro-%230E76A8.svg?style=for-the-badge&logo=security&logoColor=white) ![Rescuezilla](https://img.shields.io/badge/Rescuezilla-%23007ACC.svg?style=for-the-badge&logo=security&logoColor=white) 
